@@ -24,10 +24,13 @@ namespace Palindrome
             Console.WriteLine(userInputArr[0]);
             var result = userInputArr[0].SequenceEqual(userInputArr[0].Reverse());
 
+            int test = 300;
+
             Console.WriteLine(result);
 
-            Console.WriteLine("New Line");
+            Console.WriteLine("New Line is {0} at ",test);
 
+            Console.WriteLine("The new value is ")
         }
     }
 
