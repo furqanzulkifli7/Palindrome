@@ -30,10 +30,7 @@ namespace Palindrome
 
             Console.WriteLine("New Line is {0} at ",test);
 
-
-            Console.WriteLine("The new value is ");
-
-            Console.WriteLine("My Name is {0} and I am the fastest man {1}","Furqan","Alive");
+            Console.WriteLine("The new value is ")
         }
     }
 
