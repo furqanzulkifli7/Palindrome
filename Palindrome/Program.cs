@@ -25,6 +25,9 @@ namespace Palindrome
             var result = userInputArr[0].SequenceEqual(userInputArr[0].Reverse());
 
             Console.WriteLine(result);
+
+            Console.WriteLine("New Line");
+
         }
     }
 
